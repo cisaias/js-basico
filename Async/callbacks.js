@@ -20,4 +20,3 @@ soyAsincrona('isaias', function(nombre){
     }) 
 });
 
-
